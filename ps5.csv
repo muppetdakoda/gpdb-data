@@ -2,4 +2,4 @@ game,developer,platform,patch status,40hz,60hz,120hz,modes
 The Division,Ubisoft,PS4,Backwards-compatible,false,true,false,[]
 Avowed,Obsidian,PS5,Native,1440p,1080p,Uncapped,[Quality;Balanced;Performance]
 Abiotic Factor,Deep Field,PS5,Native,false,true,true,[]
-Sea of Thieves,Rare,PS5,Native,false,2160p,1080p,[Quality,Performance]
+Sea of Thieves,Rare,PS5,Native,false,2160p,1080p,[Quality;Performance]
